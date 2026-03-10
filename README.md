@@ -28,6 +28,13 @@ npx mmmodels
 npm install -g mmmodels
 ```
 
+## Agent Skill
+
+```bash
+# Install the Codex skill for using mmmodels in agents
+npx skills add ahmadawais/mmmodels
+```
+
 ## Quick Start
 
 ```bash
