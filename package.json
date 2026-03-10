@@ -2,7 +2,7 @@
   "$schema": "https://json.schemastore.org/package.json",
   "name": "mmmodels",
   "version": "0.1.0",
-  "description": "A CLI for browsing and filtering AI models from models.dev",
+  "description": "CLI for browsing, filtering, and exploring AI models from hundreds of providers. Built for both humans and agents.",
   "type": "module",
   "bin": {
     "mmmodels": "./dist/index.js"
