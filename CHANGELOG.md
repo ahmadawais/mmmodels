@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.1.1](https://github.com/ahmadawais/mmmodels/compare/0.1.0...0.1.1) (2026-03-10)
+
+### Features
+
+* gh repo ([37d1b51](https://github.com/ahmadawais/mmmodels/commit/37d1b51ad2894298647b08cdb2232c122d9416cd))
+
+### Improvements
+
+* lingo ([1a6d758](https://github.com/ahmadawais/mmmodels/commit/1a6d7587977a0b8d844b9df52670f0be236d153e))
+
 ## 0.1.0 (2026-03-10)
 
 ### Features
