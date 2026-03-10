@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/package.json",
   "name": "mmmodels",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A CLI for browsing and filtering AI models from models.dev",
   "type": "module",
   "bin": {
