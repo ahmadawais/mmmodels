@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json.schemastore.org/package.json",
+  "name": "mmmodels",
+  "version": "0.0.1",
+  "description": "A CLI for browsing and filtering AI models from models.dev",
+  "type": "module",
+  "bin": {
+    "mmmodels": "./dist/index.js"
+  },
+  "main": "./dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "dev": "tsup --watch",
+    "test": "vitest",
+    "test:ui": "vitest --ui",
+    "typecheck": "tsc --noEmit",
+    "lint": "biome check ./src",
+    "lint:fix": "biome check --write ./src"
+  },
+  "dependencies": {
+    "@clack/prompts": "^0.10.1",
+    "commander": "^14.0.0",
+    "fuse.js": "^7.1.0",
+    "ora": "^8.2.0",
+    "picocolors": "^1.1.1",
+    "zod": "^3.25.20"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "^2.0.0",
+    "@types/node": "^22.13.9",
+    "@vitest/ui": "^2.1.8",
+    "tsup": "^8.5.0",
+    "typescript": "^5.8.2",
+    "vitest": "^2.1.8"
+  },
+  "keywords": [
+    "ai",
+    "models",
+    "cli",
+    "llm",
+    "openai",
+    "anthropic"
+  ],
+  "author": "Ahmad Awais <me@AhmadAwais.com> (https://ahmadawais.com/)",
+  "license": "Apache-2.0",
+  "engines": {
+    "node": ">=18"
+  }
+}

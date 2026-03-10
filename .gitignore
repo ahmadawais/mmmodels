@@ -1,0 +1,9 @@
+.env
+.sst
+.idea
+dist
+.DS_Store
+node_modules
+
+# opensrc - source code for packages
+opensrc/
