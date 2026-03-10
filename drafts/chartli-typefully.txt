@@ -1,14 +1,14 @@
 Introducing chartli 📊
 
-A tiny CLI that turns plain numbers into terminal charts.
+A CLI for terminal charts from numbers.
 
 ascii, spark, bars, columns, heatmap, unicode, braille, svg.
 
 $ npx chartli
 
-I wanted terminal charts with zero setup: no browser, no Python env, no matplotlib. Pipe numbers in, get a chart out.
+I wanted zero-setup terminal charts: no browser, no Python env, no matplotlib. Pipe numbers in, get a chart out.
 
-Built with Command Code, with my CLI taste.
+Built with Command Code.
 ---
 Example:
 
@@ -55,7 +55,7 @@ This works on basically any terminal, any font, and still reads well in monochro
 ---
 Heatmap maps values to a 5-step intensity scale across a row x column grid, so patterns in tabular data pop out immediately.
 
-SVG mode has 2 render paths: circles for scatter-ish output, or lines for polylines.
+SVG mode has 2 render paths: circles or lines.
 
 The output is valid XML, so you can pipe it straight to a file or another tool.
 ---

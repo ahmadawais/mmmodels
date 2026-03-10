@@ -45,6 +45,10 @@
     "anthropic"
   ],
   "author": "Ahmad Awais <me@AhmadAwais.com> (https://ahmadawais.com/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmadawais/mmmodels"
+  },
   "license": "Apache-2.0",
   "engines": {
     "node": ">=18"
