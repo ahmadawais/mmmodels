@@ -2,7 +2,7 @@
 
 # mmmodels CLI
 
-`mmmodels` is a CLI for browsing, filtering, and exploring AI models from hundreds of providers. Built for both humans and agents on top of the [models.dev](https://models.dev) catalog.
+`mmmodels` is a CLI for browsing, filtering, and exploring AI models from hundreds of providers. Built for both humans and agents.
 
 ## Features
 
@@ -281,7 +281,7 @@ mmmodels -v
 
 ## Attribution
 
-Thanks to [models.dev](https://models.dev) for the comprehensive AI models database.
+Thanks to [models.dev](https://github.com/anomalyco/models.dev) for the comprehensive AI models database.
 
 # License & Author
 
