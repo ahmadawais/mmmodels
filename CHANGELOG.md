@@ -1,5 +1,19 @@
 # Changelog
 
+## [0.2.0](https://github.com/ahmadawais/mmmodels/compare/0.1.1...0.2.0) (2026-03-10)
+
+### Features
+
+* skill ([3424a61](https://github.com/ahmadawais/mmmodels/commit/3424a615d3492fa423c3657bb91857548ed1f1de))
+
+### Bug Fixes
+
+* extra ([091bbe8](https://github.com/ahmadawais/mmmodels/commit/091bbe82773937711b3bb409a96e6ff5b7dd6c30))
+
+### Documentation
+
+* readme ([553e6da](https://github.com/ahmadawais/mmmodels/commit/553e6da6b1d6250acba835240f958ce4b44affef))
+
 ## [0.1.1](https://github.com/ahmadawais/mmmodels/compare/0.1.0...0.1.1) (2026-03-10)
 
 ### Features
