@@ -57,7 +57,6 @@ Commands:
 # Query search shorthand
 mmmodels claude
 mmmodels "gpt 5.4"
-mmmodels "llama 3"
 
 # Explicit listing
 mmmodels list --provider anthropic
